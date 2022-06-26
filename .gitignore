@@ -1,0 +1,12 @@
+log/
+log-adda/
+wavlm-*/
+data/
+info/
+info-adda/
+evaluation/embed/
+evaluation/log/
+evaluation/pseudo/
+evaluation/spker_embed/
+evaluation/visualize/
+evaluation/wav/
